@@ -2,7 +2,7 @@
 PORTFOLIO - Introducing a stunning and dynamic website, meticulously crafted from the ground up using cutting-edge technologies such as 3D ThreeJS, React, TailwindCSS, Framer Motion, Dbms, Html, Css, Js..
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aryan-skywalker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan-skywalker&repo=github-readme-stats)](https://github.com/aryan-skywalker/github-readme-stats)
 
 ## 2. Most Used Languages
 
